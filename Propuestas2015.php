@@ -86,7 +86,7 @@ include("lang_".$_SESSION["idiomas"].".php");
             	<td><b>Propuetas 2013</b></td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td>
             </tr>
             <tr>
-            	<td>Capacidad de absorci&oacute;n de las peque&ntilde;as y medianas empresas y su importancia en el aprovechamiento  de los derrames de conocimientos desde las empresas multinacionales en Costa Rica</td>
+            	<td class="col-1">Capacidad de absorci&oacute;n de las peque&ntilde;as y medianas empresas y su importancia en el aprovechamiento  de los derrames de conocimientos desde las empresas multinacionales en Costa Rica</td>
                 <td>Juan Carlos Leiva Bonilla</td>
                 <td>Juan Carlos Leiva Bonilla, Ricardo Monge González</td>
                 <td>&nbsp </td>
@@ -94,7 +94,7 @@ include("lang_".$_SESSION["idiomas"].".php");
             </tr>
             <tr>   <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td>     </tr>
             <tr>
-            	<td>La aversión a la pérdida en estudiantes de carreras de ciencia y tecnología</td>
+            	<td class="col-1">La aversión a la pérdida en estudiantes de carreras de ciencia y tecnología</td>
                 <td>Federico Torres Carballo</td>
                 <td>Federico Torres Carballo, Luis Alexander Calvo Valverde, Yarima Sandoval Sánchez</td>
                 <td></td>
@@ -102,7 +102,7 @@ include("lang_".$_SESSION["idiomas"].".php");
             </tr>
             <tr>   <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td>     </tr>
             <tr>
-            	<td>Propuesta de un modelo validado de gestión de la innovación en el ámbito universitario: aplicación en el Tecnológico de Costa Rica</td>
+            	<td class="col-1">Propuesta de un modelo validado de gestión de la innovación en el ámbito universitario: aplicación en el Tecnológico de Costa Rica</td>
                 <td>Rytha Picado Arroyo</td>
                 <td>Rytha Picado Arroyo, Marta Sáenz Muñoz, María del Carmen Valverde Solano, Juan Carlos Carvajal Morales</td>
                 <td></td>
@@ -110,7 +110,7 @@ include("lang_".$_SESSION["idiomas"].".php");
             </tr>
             <tr>   <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td>     </tr>
            	<tr>
-            	<td>Factores que inciden en el desarrollo de la responsabilidad social en el sector hotelero de los cantones de San Carlos y Osa, Costa Rica</td>
+            	<td class="col-1">Factores que inciden en el desarrollo de la responsabilidad social en el sector hotelero de los cantones de San Carlos y Osa, Costa Rica</td>
                 <td>William Jaubert Solano</td>
                 <td>William Jaubert Solano, Ximena Araneda Fornachiari, Ronald Brenes Sánchez, José Martínez Villavicencio</td>
                 <td></td>
@@ -118,7 +118,7 @@ include("lang_".$_SESSION["idiomas"].".php");
             </tr>
             <tr>   <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td>     </tr>
             <tr>
-            	<td>La gestión financiera y su impacto en el desarrollo y éxito de las pequeñas y medianas empresas exportadoras de Costa Rica</td>
+            	<td class="col-1">La gestión financiera y su impacto en el desarrollo y éxito de las pequeñas y medianas empresas exportadoras de Costa Rica</td>
                 <td>José Martínez Villavicencio</td>
                 <td>José Martínez Villavicencio, Mario Acuña Sánchez</td>
                 <td></td>
@@ -126,7 +126,7 @@ include("lang_".$_SESSION["idiomas"].".php");
             </tr>
             <tr>   <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td>     </tr>
             <tr>
-            	<td>Modelo Medición de la Productividad del Valor Agregado (MPVA) aplicada a PYME en el sector  hotelero casos en Monteverde y La Fortuna </td>
+            	<td class="col-1">Modelo Medición de la Productividad del Valor Agregado (MPVA) aplicada a PYME en el sector  hotelero casos en Monteverde y La Fortuna </td>
                 <td>Alejandro Masís Arce</td>
                 <td>Alejandro Masís Arce, Elías Calderón Ortega, Oscar Gamboa Calderón, Dyala de la O Cordero, Ronald Leandro Elizondo, Luis Alejandro Garita Pacheco, José Martínez Villavicencio</td>
                 <td></td>
@@ -134,7 +134,7 @@ include("lang_".$_SESSION["idiomas"].".php");
             </tr>
             <tr>   <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td>     </tr>
             <tr>
-            	<td>El líder transformacional y su impacto en el comportamiento ciudadano organizacional en empresas costarricenses</td>
+            	<td class="col-1">El líder transformacional y su impacto en el comportamiento ciudadano organizacional en empresas costarricenses</td>
                 <td>Federico Torres Carballo</td>
                 <td>Federico Torres Carballo, Gerardo Lee Rojas</td>
                 <td></td>
@@ -143,7 +143,7 @@ include("lang_".$_SESSION["idiomas"].".php");
       
             <tr>   <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td>     </tr>
             <tr>
-            	<td>Desarrollo de un Modelo Integrado de Gestión de Recursos Humanos por Competencias, como herramienta para la creación de Valor Empresarial y Desarrollo Académico</td>
+            	<td class="col-1">Desarrollo de un Modelo Integrado de Gestión de Recursos Humanos por Competencias, como herramienta para la creación de Valor Empresarial y Desarrollo Académico</td>
                 <td>Grettel Brenes Leiva</td>
                 <td>Grettel Brenes Leiva, Gonzalo Delgado Leandro, Ana Isabel Fallas Arias</td>
                 <td></td>
@@ -151,7 +151,7 @@ include("lang_".$_SESSION["idiomas"].".php");
             </tr>
             <tr>   <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td>     </tr>
             <tr>
-            	<td>Las PYMES y el crecimiento inclusivo en Costa Rica </td>
+            	<td class="col-1">Las PYMES y el crecimiento inclusivo en Costa Rica </td>
                 <td>Ricardo Monge González</td>
                 <td>Ricardo Monge González, Dyala de la O Cordero</td>
                 <td></td>
@@ -159,7 +159,7 @@ include("lang_".$_SESSION["idiomas"].".php");
             </tr>
             <tr>   <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td>     </tr>
             <tr>
-            	<td>Diseño y construcción de una celda de tratamiento de residuos sólidos municipales utilizando biorreactores a escala industrial</td>
+            	<td class="col-1">Diseño y construcción de una celda de tratamiento de residuos sólidos municipales utilizando biorreactores a escala industrial</td>
                 <td>Silvia Soto Córdoba</td>
                 <td>Silvia Soto Córdoba, Ronald Brenes Sánchez, Otros externos a AE</td>
                 <td></td>
@@ -167,7 +167,7 @@ include("lang_".$_SESSION["idiomas"].".php");
             </tr>
             <tr>   <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td>     </tr>
             <tr>
-            	<td>Hacia una producción más limpia en Latinoamérica a través de la integración de educación ambiental, ingeniería y administración de negocios.</td>
+            	<td class="col-1">Hacia una producción más limpia en Latinoamérica a través de la integración de educación ambiental, ingeniería y administración de negocios.</td>
                 <td>Floria Roa Gutiérrez</td>
               <td>Floria Roa Gutiérrez, Ana Lorena Arias Zúñiga, William Jaubert Solano, Natalia Robles Obando, Randall Chaves Abarca, Juan José Valerio Vindas</td>
                 <td></td>
@@ -190,7 +190,7 @@ include("lang_".$_SESSION["idiomas"].".php");
             <tr>
             <tr>   <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td>     </tr>
             <tr>
-            	<td>Evaluación de impacto de CIE TEC, Propyme y Costa Rica Provee sobre el salario real promedio, la demanda de empleo y la posibilidad de exportar de la empresas beneficiarias y el efecto "derrame de conocimientos"</td>
+            	<td class="col-1">Evaluación de impacto de CIE TEC, Propyme y Costa Rica Provee sobre el salario real promedio, la demanda de empleo y la posibilidad de exportar de la empresas beneficiarias y el efecto "derrame de conocimientos"</td>
                 <td>Ricardo Monge González</td>
                 <td>Juan Carlos Leiva Bonilla, Ricardo Monge González</td>
                 <td></td>
@@ -198,7 +198,7 @@ include("lang_".$_SESSION["idiomas"].".php");
             </tr>
             <tr>   <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td>     </tr>
             <tr>
-            	<td>Impacto de la cultura organizativa en la innovación de las empresas</td>
+            	<td class="col-1">Impacto de la cultura organizativa en la innovación de las empresas</td>
                 <td>Ronald Mora Esquivel</td>
                 <td>Ronald Mora Esquivel</td>
                 <td>Tomás Vargas Halabí, UCR</td>
@@ -206,7 +206,7 @@ include("lang_".$_SESSION["idiomas"].".php");
             </tr>
             <tr>   <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td>     </tr>
             <tr>
-            	<td>Impacto del teletrabajo en Costa Rica sobre la productividad laboral y calidad de vida del colaborador</td>
+            	<td class="col-1">Impacto del teletrabajo en Costa Rica sobre la productividad laboral y calidad de vida del colaborador</td>
                 <td>Bernal Martínez Gutiérrez</td>
                 <td>Bernal Martínez Gutiérrez, Ronny Rodríguez Barquero, Ronny Rodríguez Barquero</td>
                 <td></td>
@@ -214,7 +214,7 @@ include("lang_".$_SESSION["idiomas"].".php");
             </tr>
             <tr>   <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td>     </tr>
             <tr>
-            	<td>Innovaciones organizativas y de comercialización: determinantes e impacto en el desempeño de las empresas</td>
+            	<td class="col-1">Innovaciones organizativas y de comercialización: determinantes e impacto en el desempeño de las empresas</td>
                 <td>Ronald Mora Esquivel</td>
                 <td>Ronald Mora Esquivel, Ricardo Monge González, Ronald Alvarado Cordero</td>
                 <td></td>
@@ -222,7 +222,7 @@ include("lang_".$_SESSION["idiomas"].".php");
             </tr>
            	<tr>   <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td>     </tr>
             <tr>
-            	<td>Comportamiento ciudadano organizacional: Un enfoque experimental de la influencia de la cultura en las empresas que ofrecen servicios de tecnología</td>
+            	<td class="col-1">Comportamiento ciudadano organizacional: Un enfoque experimental de la influencia de la cultura en las empresas que ofrecen servicios de tecnología</td>
                 <td>Federico Torres Carballo</td>
                 <td>Federico Torres Carballo, Martín Solís Salazar, Grettel Brenes Leiva, Gustavo Cubillo Salas</td>
                 <td></td>
@@ -230,7 +230,7 @@ include("lang_".$_SESSION["idiomas"].".php");
             </tr>
             <tr>   <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td>     </tr>
             <tr>
-            	<td>Comportamiento intra-emprendedor y su relación con el desempeño innovador en la empresa</td>
+            	<td class="col-1">Comportamiento intra-emprendedor y su relación con el desempeño innovador en la empresa</td>
                 <td>Ronald Mora Esquivel</td>
                 <td>Ronald Mora Esquivel, Berman Siles Ortega</td>
                 <td>Tomás Vargas Halabí, UCR</td>
@@ -238,7 +238,7 @@ include("lang_".$_SESSION["idiomas"].".php");
             </tr>
             <tr>   <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td>     </tr>
             <tr>
-            	<td>Incidencia de la presión temporal y las relaciones de poder en el comportamiento de negociación: Un estudio comparativo de economía experimental</td>
+            	<td class="col-1">Incidencia de la presión temporal y las relaciones de poder en el comportamiento de negociación: Un estudio comparativo de economía experimental</td>
                 <td>Gustavo Cubillo Salas</td>
                 <td>Gustavo Cubillo Salas, Federico Torres Carballo, Martín Solís Salazar</td>
                 <td>María del Carmen Saorín (Universidad de Valencia), Guillermo Mateu (Universidad de Dijon Francia)</td>
@@ -246,7 +246,7 @@ include("lang_".$_SESSION["idiomas"].".php");
             </tr>
             <tr>   <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td>     </tr>
             <tr>
-            	<td>Propensión de los jóvenes costarricenses a incrementar su aporte a la seguridad social o a aumentar los topes de pensión ante mejores beneficios complementarios</td>
+            	<td class="col-1">Propensión de los jóvenes costarricenses a incrementar su aporte a la seguridad social o a aumentar los topes de pensión ante mejores beneficios complementarios</td>
                 <td>Federico Torres Carballo</td>
                 <td>Federico Torres Carballo, Yarima Sandoval Sánchez</td>
                 <td></td>
@@ -254,7 +254,7 @@ include("lang_".$_SESSION["idiomas"].".php");
             </tr>
             <tr>   <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td>     </tr>
             <tr>
-            	<td>Caracterización del proceso de innovación de empresas manufactureras del sector alimentario de Costa Rica: un estudio exploratorio</td>
+            	<td class="col-1">Caracterización del proceso de innovación de empresas manufactureras del sector alimentario de Costa Rica: un estudio exploratorio</td>
                 <td>Raquel Lafuente Chryssopoulos</td>
                 <td>Raquel Lafuente Chryssopoulos, Ronald Mora Esquivel, Leonel Fonseca Retana</td>
                 <td></td>
@@ -277,7 +277,7 @@ include("lang_".$_SESSION["idiomas"].".php");
             </tr>
             <tr>   <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td>     </tr>
             <tr>
-            	<td> <?php echo PROPUESTAS_2015_1?>  </td>
+            	<td class="col-1"> <?php echo PROPUESTAS_2015_1?>  </td>
                 <td>Juan Carlos Leiva Bonilla</td>
                 <td> Juan Carlos Leiva,  Ricardo Monge,  Federico Torres </td>
                 <td></td>
@@ -285,7 +285,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	      	</tr>
             <tr>   <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td>     </tr>
             <tr>
-            	<td> <?php echo PROPUESTAS_2015_2?>  </td>
+            	<td class="col-1"> <?php echo PROPUESTAS_2015_2?>  </td>
                 <td>Alejandro Masis Arce</td>
                 <td> Dyalá de la O, Alejandro Masis </td>
                 <td>Dalia Silberstein, Mariana Galli, Alfredo Camhaji</td>
@@ -293,7 +293,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	      	</tr>
             <tr>   <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td>     </tr>
             <tr>
-            	<td> <?php echo PROPUESTAS_2015_3?>  </td>
+            	<td class="col-1"> <?php echo PROPUESTAS_2015_3?>  </td>
                 <td></td>
                 <td> Dyala de la O, José Martínez, Carmen Castrejón Mata, Héctor Ruiz Rueda, Catherine Keske </td>
                 <td></td>
@@ -301,7 +301,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	      	</tr>
             <tr>   <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td>     </tr>
             <tr>
-            	<td> <?php echo PROPUESTAS_2015_4?>  </td>
+            	<td class="col-1"> <?php echo PROPUESTAS_2015_4?>  </td>
                 <td>Ronald Brenes Arce</td>
                 <td> Juan Carlos Leiva, Ronald Brenes </td>
                 <td></td>
@@ -309,7 +309,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	      	</tr>
             <tr>   <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td>     </tr>
             <tr>
-            	<td> <?php echo PROPUESTAS_2015_5?>  </td>
+            	<td class="col-1"> <?php echo PROPUESTAS_2015_5?>  </td>
                 <td>Oscar Córdoba Artavia</td>
                 <td> Oscar Cordoba, Alan Henderson</td>
                 <td>Rodolfo Romero (UCR)</td>
@@ -317,7 +317,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	      	</tr>
             <tr>   <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td>     </tr>
             <tr>
-            	<td> <?php echo PROPUESTAS_2015_6?>  </td>
+            	<td class="col-1"> <?php echo PROPUESTAS_2015_6?>  </td>
                 <td>José Martinez Villavicencio </td>
                 <td> José Martinez, Bernal Martínez, Mario Acuña, Rony Rodríguez </td>
                 <td></td>
@@ -325,7 +325,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	      	</tr>
             <tr>   <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td>     </tr>
             <tr>
-            	<td> <?php echo PROPUESTAS_2015_7?>  </td>
+            	<td class="col-1"> <?php echo PROPUESTAS_2015_7?>  </td>
                 <td>Ronald Mora Esquivel</td>
                 <td> Marinés Fonseca, Ronald Mora </td>
                 <td></td>
@@ -333,7 +333,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	      	</tr>
             <tr>   <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td>     </tr>
             <tr>
-            	<td> <?php echo PROPUESTAS_2015_8?>  </td>
+            	<td class="col-1"> <?php echo PROPUESTAS_2015_8?>  </td>
                 <td>Federico Torres Carballo</td>
                 <td> Federico Torres, Ricardo Monge </td>
                 <td></td>
@@ -341,7 +341,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	      	</tr>
             <tr>   <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td>     </tr>
             <tr>
-            	<td> El Big Five y su implicación en la negociación: un estudio interdisciplinario de economía experimental </td>
+            	<td class="col-1"> El Big Five y su implicación en la negociación: un estudio interdisciplinario de economía experimental </td>
                 <td>Gustavo Cubillo Salas</td>
                 <td> Gustavo Cubillo, Federico Torres Carballo </td>
                 <td>Ivannia Murillo (UCR), Guillermo Mateu (Universidad de Dijon), María del Carmen Saorín (Universidad de Valencia)</td>
@@ -349,7 +349,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	      	</tr>
             <tr>   <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td>     </tr>
             <tr>
-            	<td> <?php echo PROPUESTAS_2015_10?>  </td>
+            	<td class="col-1"> <?php echo PROPUESTAS_2015_10?>  </td>
                 <td>Ivonne Vazquez Esquivel</td>
                 <td> Ivonne Vázquez Esquivel </td>
                 <td></td>
@@ -357,7 +357,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	      	</tr>
             <tr>   <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td>     </tr>
             <tr>
-            	<td> <?php echo PROPUESTAS_2015_11?>  </td>
+            	<td class="col-1"> <?php echo PROPUESTAS_2015_11?>  </td>
                 <td>Ronald Mora Esquivel</td>
                 <td> Ronald Mora, Manrique Hernández  </td>
                 <td></td>
@@ -365,7 +365,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	      	</tr>
             <tr>   <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td> <td> &nbsp </td>     </tr>
             <tr>
-            	<td> <?php echo PROPUESTAS_2015_12?>  </td>
+            	<td  class="col-1"> <?php echo PROPUESTAS_2015_12?>  </td>
                 <td>Ronny Rodríguez Barquero</td>
                 <td> Rony Rodriguez, Bernal Martínez, Oscar Solano, Silvia Hidalgo </td>
                 <td>José Anastasio Uribe, Universidad de Valencia</td>
