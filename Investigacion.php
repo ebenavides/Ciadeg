@@ -109,9 +109,9 @@ El Centro trabaja en cuatros líneas de investigación que han sido definidas cons
                 <br><br>
                         
       </p>
-      <h2><?php echo SUBTITULO_PUBLICACIONES?> </h2>
+      <h2>Publicaciones y Tésis</h2>
       <p align="justify">
-      			<?php echo TEXTO_PUBLICACIONES ?>
+      			Publicaciones, tésis, sus autores y enlace dónde se encuentran disponibles
                 <a href="Publicaciones.php"><?php echo LEER_MAS_PROYECTOS ?></a>
                 
                 
