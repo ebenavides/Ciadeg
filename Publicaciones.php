@@ -167,6 +167,128 @@ include("lang_".$_SESSION["idiomas"].".php");
     
       
       <!-- ####################################################################################################### -->
+      <!-- Segunda Tabla-->
+      <br/>
+      <br/>
+      <h1><b>INVENTARIO DE TÉSIS DOCTORALES</b></h1>
+      
+      	<table border=0 cellpadding="20px" >
+    	<tr>
+            <td align="center"> NUM </td>
+            <td align="center">AUTOR </td>
+            <td align="center">NOMBRE DE LA TÉSIS </td>
+            <td align="center">UNIVERSIDAD </td>
+            <td align="center">AÑO DE PUBLICACIÓN </td>
+      	</tr>
+      	<tr>
+      		<td> 1  </td>
+	        <td> Monge González Ricardo</td>
+    	    <td> Dissertation: The Political Economy of Trade Reform in Costa Rica</td>
+        	<td> The Ohio State University, USA. Doctor of Philosophy (economics) </td>
+	        <td> 1994  </td>
+      	</tr> 
+      	
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>
+        <tr>
+      		<td> 2  </td>
+	        <td> Rodríguez Mora Hannia</td>
+    	    <td> El liderazgo transformacional como antecedente de la empleabilidad:  Su influencia en el rendimiento individual</td>
+        	<td> Universidad de Valencia. Doctorado en Dirección de Empresas </td>
+	        <td> 2010  </td>
+      	</tr> 
+      	
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>
+        <tr>
+      		<td> 3  </td>
+	        <td> Mora Esquivel Ronald</td>
+    	    <td> Análisis del Proceso de Fundación y Factores de Crecimiento en Empresas de Base Tecnológica</td>
+        	<td> Universidad de Valencia. Doctorado en Dirección de Empresas</td>
+	        <td> 2010  </td>
+      	</tr> 
+      	
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>
+        <tr>
+      		<td> 4  </td>
+	        <td> Torres Carballo Federico</td>
+    	    <td> Aprendizaje y empleabilidad como antecedentes del liderazgo transaccional</td>
+        	<td> Universidad de Valencia. Doctorado en Dirección de Empresas. 
+</td>
+	        <td> 2010  </td>
+      	</tr> 
+      	
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>
+        <tr>
+      		<td> 5  </td>
+	        <td> Masís Arce Alejandro</td>
+    	    <td> Efectos económicos y sociales del turismo rural en tres zonas de Costa Rica. Los casos de albergue ecoturístico el Silencio Savegre de Aguirre, Heliconias Lodge and Rainforest Bijagua de Upala y el Encanto de Piedra Blanca/CODECE-San Antonio de Escazú.</td>
+        	<td> Universidad Latina de Costa Rica. Doctorado en Ciencias Económicas y Empresariales</td>
+	        <td> 2011  </td>
+      	</tr> 
+      	
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>
+        
+        <tr>
+      		<td> 6  </td>
+	        <td> Leiva Bonilla Juan Carlos</td>
+    	    <td> Creación de empresas y aprendizaje emprendedor: características y elementos distintivos de las empresas jóvenes formadas por ex empleados de empresas multinacionales en Costa Rica.</td>
+        	<td> Universidad de Valencia. Doctorado en Dirección de Empresas
+</td>
+	        <td> 2011  </td>
+      	</tr> 
+      	
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>
+        <tr>
+      		<td> 7  </td>
+	        <td> Cubillo Salas Gustavo</td>
+    	    <td> Impacto de la cultura del país en las negociaciones comerciales.</td>
+        	<td> Universidad de Valencia. Doctorado en Dirección de Empresas</td>
+	        <td> 2011  </td>
+      	</tr> 
+      	
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>
+        <tr>
+      		<td> 8  </td>
+	        <td> Martínez Villavicencio José </td>
+    	    <td> Factores que inciden en el éxito exportador de las PYMES en Costa Rica</td>
+        	<td> Universidad de Valencia. Doctorado en Dirección de Empresas</td>
+	        <td> 2011  </td>
+      	</tr> 
+      	
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>
+        <tr>
+      		<td> 9  </td>
+	        <td> Espinoza Guido Sergio </td>
+    	    <td> Análisis de algunas dimensiones en educación. Reflexiones y acciones aplicadas al Sistema Educativo Costarricense</td>
+        	<td> Ciencias de Educación</td>
+	        <td> 2011  </td>
+      	</tr> 
+      	
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>
+        <tr>
+      		<td> 10  </td>
+	        <td> Henderson García Alan </td>
+    	    <td> Estudio comparativo de las políticas públicas sobre la calidad en la administración pública de los países centroamericanos</td>
+        	<td> Instituto Centroamericano de Administración Pública (ICAP). Doctorado en Gestión Pública y Ciencias Empresariales</td>
+	        <td> 2013  </td>
+      	</tr> 
+      	
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>
+        <tr>
+      		<td> 11  </td>
+	        <td> Brenes Leiva Grettel </td>
+    	    <td> Las iniciativas de las filiales y la resistencia corporativa: un análisis empírico en Costa Rica</td>
+        	<td> Universidad de Valencia. Doctorado en Dirección de Empresas</td>
+	        <td> 2014  </td>
+      	</tr> 
+      	
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>          
+        
+        </table>
+
+
+
+
+      <!--> ####################################################################################################### -->
     </div>
   </div>
 </div>
