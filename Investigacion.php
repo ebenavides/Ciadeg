@@ -92,27 +92,26 @@ El Centro trabaja en cuatros líneas de investigación que han sido definidas cons
       </p>
       <h2><?php echo SUBTITULO_POROGRAMAS?> </h2>
       <p align="justify">
-      			<?php echo TEXTO_PROYECTOS_VIGENTES ?>
-                <a href="ProyectosVigentes.php"><?php echo LEER_MAS_PROYECTOS ?></a>
+      			
+                <a href="ProyectosVigentes.php"><?php echo TEXTO_PROYECTOS_VIGENTES ?></a>
                 <br><br>
                 
-                <?php echo TEXTO_PROYECTOS_FINALIZADOS ?>
-                <a href="ProyectosFinalizados.php"><?php echo LEER_MAS_PROYECTOS ?></a>
+                <a href="ProyectosFinalizados.php"><?php echo TEXTO_PROYECTOS_FINALIZADOS ?></a>
                 <br><br>
                 
-                <?php echo TEXTO_PROPUESTAS_ACTIVAS ?>
-                <a href="PropuestasActivas.php"><?php echo LEER_MAS_PROYECTOS ?></a>
+                <a href="PropuestasActivas.php"><?php echo TEXTO_PROPUESTAS_ACTIVAS ?></a>
                 <br><br> 
                 
-                <?php echo TEXTO_PROPUESTAS_2015 ?>
-                <a href="Propuestas2015.php"><?php echo LEER_MAS_PROYECTOS ?></a>
+                <a href="Propuestas2015.php"><?php echo TEXTO_PROPUESTAS_2015 ?></a>
                 <br><br>
                         
       </p>
       <h2>Publicaciones y Tésis</h2>
       <p align="justify">
-      			Publicaciones, tésis, sus autores y enlace dónde se encuentran disponibles
-                <a href="Publicaciones.php"><?php echo LEER_MAS_PROYECTOS ?></a>
+      			
+                <a href="Publicaciones.php">Publicaciones, tésis, sus autores y enlace dónde se encuentran disponibles</a>
+                
+                <a href="PublicacionesRevista.php">Publicaciones en TEC-Empresarial</a>
                 
                 
       </p>

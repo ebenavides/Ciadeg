@@ -170,13 +170,13 @@ include("lang_".$_SESSION["idiomas"].".php");
       <!-- Segunda Tabla-->
       <br/>
       <br/>
-      <h1><b>INVENTARIO DE TÉSIS DOCTORALES</b></h1>
+      <h1><b>INVENTARIO DE TESIS DOCTORALES</b></h1>
       
       	<table border=0 cellpadding="20px" >
     	<tr>
             <td align="center"> NUM </td>
             <td align="center">AUTOR </td>
-            <td align="center">NOMBRE DE LA TÉSIS </td>
+            <td align="center">NOMBRE DE LA TESIS </td>
             <td align="center">UNIVERSIDAD </td>
             <td align="center">AÑO DE PUBLICACIÓN </td>
       	</tr>
