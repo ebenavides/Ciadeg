@@ -15,7 +15,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="EN" lang="EN" dir="ltr">
 <head profile="http://gmpg.org/xfn/11">
-<title><?php echo TINVESTIGACION?></title>
+<title><?php echo TPUBLICACIONES?></title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <meta http-equiv="imagetoolbar" content="no" />
 <link rel="stylesheet" href="styles/layout.css" type="text/css" />
@@ -32,8 +32,8 @@ include("lang_".$_SESSION["idiomas"].".php");
       <ul>
         <li><a href="index.php"><?php echo INICIOTOP?></a></li>
         <li><a href="Contacto.php"><?php echo CONTACTOTOP?></a></li>
-        <li><?php echo "<a href= 'Investigacion.php?idioma=en'>".CAMBIOIDIOMAEN."</a>" ?></li>
-        <li class="last"> <?php echo "<a href= 'Investigacion.php?idioma=es'>".CAMBIOIDIOMAES."</a>"?></li>
+        <li><?php echo "<a href= 'Publicaciones.php?idioma=en'>".CAMBIOIDIOMAEN."</a>" ?></li>
+        <li class="last"> <?php echo "<a href= 'Publicaciones.php?idioma=es'>".CAMBIOIDIOMAES."</a>"?></li>
         <div align="right"></div>
       </ul>
       <form action="#" method="post" id="sitesearch">
@@ -54,7 +54,7 @@ include("lang_".$_SESSION["idiomas"].".php");
       <ul>
         <li><a href="index.php"><?php echo INICIO?></a></li>
         <li><a href="Organizacion.php"><?php echo MIEMBROS?></a></li>
-        <li><a href="#"><?php echo INVESTIGACION?></a></li>
+        <li><a href="Investigacion.php"><?php echo INVESTIGACION?></a></li>
         <li><a href="Servicios.php"><?php echo OFERTA?></a></li>
         <li><a href="Estudiantes.php"><?php echo ESTUDIANTES?></a></li>
         <li class="last"><a href="Contacto.php"><?php echo CONTACTO?></a></li>
@@ -68,66 +68,90 @@ include("lang_".$_SESSION["idiomas"].".php");
   <div class="rnd">
     <div id="container" class="clear">
       <!-- ####################################################################################################### -->
-      <h1><b><?php echo TITULO_INVESTIGACION?></b></h1>
-      <br>
-      <h2><?php echo SUBTITULO_LINEAS?> </h2>
-      <p align="justify">
-El Centro trabaja en cuatros líneas de investigación que han sido definidas considerando el talento humano disponible, los intereses del país de acuerdo al Plan Nacional de Desarrollo, los intereses institucionales y la experiencia de los investigadores en los eventos internacionales de investigación. En este sentido se estima conveniente destacar que la participación en pasantías o congresos mundiales ha permitido conocer los temas que se están desarrollando en diferentes países en el campo de la Administración.  <br>
-      </p>
-      <p align="justify">
-      	Además, el Centro desarrolla otros proyectos derivados de las necesidades de la empresa:
-		<ul>
-            <li>Investigación científica administrativa obedeciendo a intereses específicos del investigador y avalados por el Centro.</li>
-            <li>Investigación administrativa aplicada directamente a la empresa en el ámbito de la consultoría, apoyo a las actividades de extensión de la Escuela y servicios estadísticos.</li>
-		</ul>
-      </p>
-      <p align="justify">
-      A continuación se detallan las líneas de investigación establecidas por el CIADEG-TEC: 
-      </p>
-      <p align="justify">
-      			<?php echo TEXTO_LINEA_1 ?> <br>
-                <a href="#">Iutas críticas e investigación en el tema de PYMES </a>
-                <br><br><br><br>
-                <?php echo TEXTO_LINEA_2 ?> <br><br><br>
-                <?php echo TEXTO_LINEA_3 ?> <br><br><br>
-                <?php echo TEXTO_LINEA_4 ?> <br><br><br>
-      </p>
-      <h2><?php echo SUBTITULO_POROGRAMAS?> </h2>
-      <p align="justify">
-      			
-                <a href="ProyectosVigentes.php"><?php echo TEXTO_PROYECTOS_VIGENTES ?></a>
-                <br><br>
-                
-                <a href="ProyectosFinalizados.php"><?php echo TEXTO_PROYECTOS_FINALIZADOS ?></a>
-                <br><br>
-                
-                <a href="PropuestasActivas.php"><?php echo TEXTO_PROPUESTAS_ACTIVAS ?></a>
-                <br><br> 
-                
-                <a href="Propuestas2015.php">Propuestas de investigación 2013-2015 </a>
-                <br><br>
-                
-                <a href="RutasCriticas.php">Rutas críticas e investigación en el tema de PYMES </a>
-                <br><br>
-                        
-      </p>
-      <h2>Publicaciones y Tesis</h2>
-      <p align="justify">
-      			
-                <a href="Publicaciones.php">Publicaciones, tesis, sus autores y enlace dónde se encuentran disponibles</a>
-                <br><br>
-                
-                <a href="PublicacionesRevista.php">Publicaciones en TEC-Empresarial</a>
-                
-                
-      </p>
+      <h1><b>DESCRIPCIÓN DE RUTAS CRÍTICAS DE INVESTIGACIÓN</b></h1>
       
       
-      
+	<table  table border=0 cellpadding="20px" >
+    	<thead>
+            <th align="center"> COORDINADOR </td>
+            <th align="center">EQUIPO DE TRABAJO</td>
+            <th align="center">RUTA CRÍTICA DE INVESTIGACIÓN</td>
+      	</thead>
+      	<tr>
+      		<td> Dr. José Martínez Villavicencio </td>
+	        <td> Bernal Martínez Gutiérrez, Rony Rodríguez Barquero, Mario Acuña Sánchez</td>
+    	    <td> Pymes de Exportación</td>
+      	</tr>
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> </tr> 
+        <tr>
+      		<td> Dr. Ronald Mora Esquivel </td>
+	        <td> Raquel Lafuente Chryssopoulos, Leonel Fonseca</td>
+    	    <td> Procesos de innovación en empresas</td>
+      	</tr>
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> </tr> 
+        <tr>
+      		<td> Dr. Federico Torres Carballo </td>
+	        <td> Gustavo Cubillo Salas, Yarima Sandoval Sánchez, Haydeé Tiffer Sotomayor, Martín Solís Salazar, Grettel Brenes Leiva, José Vila (Profesor de Universidad de Valencia), Guillermo Mateu(Profesor de Universidad de Dijón), María del Carmen Saorín(Profesor de la Universidad de Valencia)</td>
+    	    <td> Aplicación de experimentos económicos en la medición de comportamientos y destrezas del recurso humano</td>
+      	</tr>  
 
-	      
-    
       
+      </table>
+
+      
+      <!-- ####################################################################################################### -->
+      <!-- Segunda Tabla-->
+      <br/>
+      <br/>
+      <h1><b>INVESTIGACIONES EN EL TEMA DE PYMES Y EMPRENDEDORES</b></h1>
+      <br/>
+      <p align="justify">Las investigaciones en el tema de pymes y emprendedores se agrupan de la siguiente forma:</p>
+      <br>
+      	<table border=0 cellpadding="20px" >
+    	<thead>
+            <th align="center"> TEMA ESPECÍFICO </td>
+            <th align="center">INTEGRANTES </td>
+            <th align="center">PERSPECTIVAS </td>
+      	</thead>
+      	<tr>
+      		<td> Pymes exportadoras  </td>
+	        <td> José Martínez, Bernal Martínez, Ronny Rodríguez, Mario Acuña, Allan Henderson.  No tiene conexiones internacionales.</td>
+    	    <td> Ruta crítica: Las pymes exportadoras.<br>Ya han finalizado algunas investigaciones, tienen en proceso y presentarán otras. Han publicado uno o dos artículos.</td>
+      	</tr> 
+      	
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> </tr>
+      
+         <tr>
+      		<td> Pymes y multinacionales </td>
+	        <td> Ricardo Monge, Juan Carlos Leiva, Juan Antonio Rodríguez. Conexiones internacionales: Universidad de Valencia, Banco Interamericano de Desarrollo (BID)</td>
+    	    <td> Ruta crítica: La relación entre pymes locales y empresas multinacionales en Costa Rica.<br>
+Han estudiado el fenómeno con proyectos ya finalizados y otros en proceso. Han publicado un par de artículos y presentado resultados ante la Asociación Nacional de Empresarios de Zonas Francas, entre otros.</td>
+      	</tr> 
+      	
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> </tr>
+        
+         <tr>
+      		<td> Política pública para pymes </td>
+	        <td> Ricardo Monge, Juan Antonio Rodríguez, Juan Carlos Leiva. Conexiones internacionales BID</td>
+    	    <td> Ruta crítica: Política pública de apoyo a pymes en temas de encadenamientos, relación con multinacionales y financiamiento. <br>
+Se han enfocado en evaluación de impacto de programas como: Propyme, Costa Rica Provee, CIETEC, y financiamiento por una entidad de crédito como Acorde.
+			</td>
+      	</tr> 
+      	
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> </tr>
+                  
+         <tr>
+      		<td> Mujeres y emprendimiento </td>
+	        <td> Rytha Picado, Eugenia Ferreto. No tiene conexiones internacionales</td>
+    	    <td> Ruta crítica: Mujeres en emprendimiento. <br> Tienen un proyecto en proceso y ahora se sumarán al del Observatorio de la Mujer con fondos del Sistema
+			</td>
+      	</tr> 
+      
+        </table>
+
+
+
+
       <!-- ####################################################################################################### -->
     </div>
   </div>
