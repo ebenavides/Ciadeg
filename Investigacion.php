@@ -86,8 +86,8 @@ El Centro trabaja en cuatros líneas de investigación que han sido definidas cons
       </p>
       <p align="justify">
       			<?php echo TEXTO_LINEA_1 ?> <br>
-                <a href="#">Iutas críticas e investigación en el tema de PYMES </a>
-                <br><br><br><br>
+                <a href="#">Rutas críticas e investigación en el tema de PYMES </a>
+                <br><br><br>
                 <?php echo TEXTO_LINEA_2 ?> <br><br><br>
                 <?php echo TEXTO_LINEA_3 ?> <br><br><br>
                 <?php echo TEXTO_LINEA_4 ?> <br><br><br>

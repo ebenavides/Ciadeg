@@ -73,13 +73,13 @@ include("lang_".$_SESSION["idiomas"].".php");
       
 	<table  table border=0 cellpadding="20px" >
     	<thead>
-            <th align="center"> COORDINADOR </td>
+            <th align="center" width="180">COORDINADOR </td>
             <th align="center">EQUIPO DE TRABAJO</td>
             <th align="center">RUTA CRÍTICA DE INVESTIGACIÓN</td>
       	</thead>
       	<tr>
       		<td> Dr. José Martínez Villavicencio </td>
-	        <td> Bernal Martínez Gutiérrez, Rony Rodríguez Barquero, Mario Acuña Sánchez</td>
+	        <td  style="text-align:justify"> Bernal Martínez Gutiérrez, Rony Rodríguez Barquero, Mario Acuña Sánchez</td>
     	    <td> Pymes de Exportación</td>
       	</tr>
         <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> </tr> 
@@ -91,8 +91,8 @@ include("lang_".$_SESSION["idiomas"].".php");
         <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> </tr> 
         <tr>
       		<td> Dr. Federico Torres Carballo </td>
-	        <td> Gustavo Cubillo Salas, Yarima Sandoval Sánchez, Haydeé Tiffer Sotomayor, Martín Solís Salazar, Grettel Brenes Leiva, José Vila (Profesor de Universidad de Valencia), Guillermo Mateu(Profesor de Universidad de Dijón), María del Carmen Saorín(Profesor de la Universidad de Valencia)</td>
-    	    <td> Aplicación de experimentos económicos en la medición de comportamientos y destrezas del recurso humano</td>
+	        <td style="text-align:justify"> Gustavo Cubillo Salas, Yarima Sandoval Sánchez, Haydeé Tiffer Sotomayor, Martín Solís Salazar, Grettel Brenes Leiva, José Vila (Profesor de Universidad de Valencia), Guillermo Mateu(Profesor de Universidad de Dijón), María del Carmen Saorín(Profesor de la Universidad de Valencia)</td>
+    	    <td style="text-align:justify"> Aplicación de experimentos económicos en la medición de comportamientos y destrezas del recurso humano</td>
       	</tr>  
 
       
@@ -104,7 +104,6 @@ include("lang_".$_SESSION["idiomas"].".php");
       <br/>
       <br/>
       <h1><b>INVESTIGACIONES EN EL TEMA DE PYMES Y EMPRENDEDORES</b></h1>
-      <br/>
       <p align="justify">Las investigaciones en el tema de pymes y emprendedores se agrupan de la siguiente forma:</p>
       <br>
       	<table border=0 cellpadding="20px" >
@@ -115,16 +114,16 @@ include("lang_".$_SESSION["idiomas"].".php");
       	</thead>
       	<tr>
       		<td> Pymes exportadoras  </td>
-	        <td> José Martínez, Bernal Martínez, Ronny Rodríguez, Mario Acuña, Allan Henderson.  No tiene conexiones internacionales.</td>
-    	    <td> Ruta crítica: Las pymes exportadoras.<br>Ya han finalizado algunas investigaciones, tienen en proceso y presentarán otras. Han publicado uno o dos artículos.</td>
+	        <td style="text-align:justify"> José Martínez, Bernal Martínez, Ronny Rodríguez, Mario Acuña, Allan Henderson.  No tiene conexiones internacionales.</td>
+    	    <td style="text-align:justify"> Ruta crítica: Las pymes exportadoras.<br>Ya han finalizado algunas investigaciones, tienen en proceso y presentarán otras. Han publicado uno o dos artículos.</td>
       	</tr> 
       	
         <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> </tr>
       
          <tr>
       		<td> Pymes y multinacionales </td>
-	        <td> Ricardo Monge, Juan Carlos Leiva, Juan Antonio Rodríguez. Conexiones internacionales: Universidad de Valencia, Banco Interamericano de Desarrollo (BID)</td>
-    	    <td> Ruta crítica: La relación entre pymes locales y empresas multinacionales en Costa Rica.<br>
+	        <td style="text-align:justify"> Ricardo Monge, Juan Carlos Leiva, Juan Antonio Rodríguez. Conexiones internacionales: Universidad de Valencia, Banco Interamericano de Desarrollo (BID)</td>
+    	    <td style="text-align:justify"> Ruta crítica: La relación entre pymes locales y empresas multinacionales en Costa Rica.<br>
 Han estudiado el fenómeno con proyectos ya finalizados y otros en proceso. Han publicado un par de artículos y presentado resultados ante la Asociación Nacional de Empresarios de Zonas Francas, entre otros.</td>
       	</tr> 
       	
@@ -132,8 +131,8 @@ Han estudiado el fenómeno con proyectos ya finalizados y otros en proceso. Han p
         
          <tr>
       		<td> Política pública para pymes </td>
-	        <td> Ricardo Monge, Juan Antonio Rodríguez, Juan Carlos Leiva. Conexiones internacionales BID</td>
-    	    <td> Ruta crítica: Política pública de apoyo a pymes en temas de encadenamientos, relación con multinacionales y financiamiento. <br>
+	        <td style="text-align:justify"> Ricardo Monge, Juan Antonio Rodríguez, Juan Carlos Leiva. Conexiones internacionales BID</td>
+    	    <td style="text-align:justify"> Ruta crítica: Política pública de apoyo a pymes en temas de encadenamientos, relación con multinacionales y financiamiento. <br>
 Se han enfocado en evaluación de impacto de programas como: Propyme, Costa Rica Provee, CIETEC, y financiamiento por una entidad de crédito como Acorde.
 			</td>
       	</tr> 
@@ -143,7 +142,7 @@ Se han enfocado en evaluación de impacto de programas como: Propyme, Costa Rica 
          <tr>
       		<td> Mujeres y emprendimiento </td>
 	        <td> Rytha Picado, Eugenia Ferreto. No tiene conexiones internacionales</td>
-    	    <td> Ruta crítica: Mujeres en emprendimiento. <br> Tienen un proyecto en proceso y ahora se sumarán al del Observatorio de la Mujer con fondos del Sistema
+    	    <td style="text-align:justify"> Ruta crítica: Mujeres en emprendimiento. <br> Tienen un proyecto en proceso y ahora se sumarán al del Observatorio de la Mujer con fondos del Sistema
 			</td>
       	</tr> 
       

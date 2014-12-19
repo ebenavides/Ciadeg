@@ -70,8 +70,7 @@ include("lang_".$_SESSION["idiomas"].".php");
       <!-- ####################################################################################################### -->
       <!-- Segunda Tabla-->
       <br/>
-      <br/>
-      <h1><b>INVENTARIO DE TESIS DOCTORALES</b></h1>
+      <h1><b>PUBLICACIONES EN TEC-EMPRESARIAL 2006-2014</b></h1>
       
       <p style="text-align:justify">En el año 2006 se lanzó una revista propia de la Escuela de Administración de Empresas,  con el objetivo de estimular la publicación de artículos y promocionar el trabajo de investigación que se realiza.  Se han publicado ocho volúmenes y un total de 96 artículos, los cuales se detallan a continuación:</p>
       
