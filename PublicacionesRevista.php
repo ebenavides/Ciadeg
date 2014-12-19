@@ -76,12 +76,14 @@ include("lang_".$_SESSION["idiomas"].".php");
       <p style="text-align:justify">En el año 2006 se lanzó una revista propia de la Escuela de Administración de Empresas,  con el objetivo de estimular la publicación de artículos y promocionar el trabajo de investigación que se realiza.  Se han publicado ocho volúmenes y un total de 96 artículos, los cuales se detallan a continuación:</p>
       
       	<table border=0 cellpadding="20px" >
-    	<tr>
-            <td align="center"> NÚM </td>
-            <td align="center">AUTOR </td>
-            <td align="center">TÍTULO DEL ARTÍCULO </td>
-            <td align="center">PUBLICADO EN </td>
+    	<thead>
+        <tr>
+            <th align="center"> NÚM </td>
+            <th align="center">AUTOR </td>
+            <th align="center" width="600px">TÍTULO DEL ARTÍCULO </td>
+            <th align="center" width="80px">PUBLICADO EN </td>
       	</tr>
+        </thead>
       	<tr>
       		<td> 1  </td>
 	        <td> Vernor Mesen Figueroa</td>
@@ -89,7 +91,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 1 Número 1 2006  </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr> 
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>   </tr> 
         
         <tr>
       		<td> 2 </td>
@@ -98,7 +100,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 1 Número 1 2006  </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>   </tr>
         
         <tr>
       		<td> 3 </td>
@@ -107,7 +109,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 1 Número 1 2006  </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>
         
         <tr>
       		<td> 4 </td>
@@ -116,7 +118,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 1 Número 1 2006  </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
       		<td> 5 </td>
 	        <td> José Martínez Villavicencio</td>
@@ -124,7 +126,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 1 Número 1 2006  </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
       		<td> 6</td>
 	        <td> Juan Carlos Leiva Bonilla</td>
@@ -132,7 +134,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 1 Número 1 2006  </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>   </tr>   
              <tr>
       		<td> 7 </td>
 	        <td> Arnoldo Araya Leandro</td>
@@ -140,7 +142,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 1 Número 1 2006  </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>   </tr>   
              <tr>
       		<td> 8 </td>
 	        <td> Federico Torres Carballo</td>
@@ -148,7 +150,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 1 Número 2 2007 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>   </tr>   
              <tr>
       		<td> 9 </td>
 	        <td> Grettel Brenes Leiva</td>
@@ -156,7 +158,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 1 Número 2 2007 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>   </tr>   
              <tr>
       		<td> 10 </td>
 	        <td> Francisco Martínez Villavicencio</td>
@@ -164,7 +166,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 1 Número 2 2007 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
       		<td> 11 </td>
 	        <td>Sergio Espinoza Guido</td>
@@ -172,7 +174,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 1 Número 2 2007 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
       		<td> 12 </td>
 	        <td> Francisco Puig Blanco, Esmeralda Linares Navarro y José Pla Barber</td>
@@ -180,7 +182,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 1 Número 2 2007  </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
       		<td> 13 </td>
 	        <td> Gerardo Lee Rojas</td>
@@ -188,7 +190,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 1 Número 2 2007 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>   </tr>   
              <tr>
       		<td> 14 </td>
 	        <td> Vernor Mesén Figueroa</td>
@@ -196,7 +198,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 1 Número 3 2007 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>   </tr>   
              <tr>
       		<td> 15 </td>
 	        <td> Manrique Hernández Ramírez</td>
@@ -204,7 +206,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 1 Número 3 2007  </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
       		<td> 16 </td>
 	        <td> Gustavo A. Arias Masis y Ronald Mora Esquivel</td>
@@ -212,7 +214,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 1 Número 3 2007 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>   </tr>   
              <tr>
       		<td> 17 </td>
 	        <td> Ricardo Monge González</td>
@@ -220,7 +222,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 1 Número 3 2007 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>   </tr>   
              <tr>
       		<td> 18 </td>
 	        <td> Lizette Brenes Bonilla y Juan Carlos Leiva Bonilla</td>
@@ -228,7 +230,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 1 Número 3 2007  </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
       		<td> 19 </td>
 	        <td> Isabel Barrientos Blanco, Herla Pineda Segura y Carlos Alberto Valverde Brealey</td>
@@ -236,7 +238,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 1 Número 3 2007 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
       		<td> 20 </td>
 	        <td> Juan Quirós Sáenz</td>
@@ -244,7 +246,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 1 Número 4 2007  </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
       		<td> 21 </td>
 	        <td> Ronald Leandro Elizondo</td>
@@ -252,7 +254,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 1 Número 4 2007  </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
       		<td> 22 </td>
 	        <td>José Martínez Villavicencio</td>
@@ -260,7 +262,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 1 Número 4 2007 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>   </tr>   
              <tr>
       		<td> 23 </td>
 	        <td> José Manuel Comeche Martínez, Francisco Pomer Murgui y Francisco Puig Blanco </td>
@@ -268,7 +270,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td>Vol 1 Número 4 2007 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>   </tr>   
              <tr>
       		<td> 24 </td>
 	        <td> Vernor Mesén Figueroa</td>
@@ -276,7 +278,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 2 Número 1 2008  </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
       		<td> 25 </td>
 	        <td>Inmaculada Martín Rojo y Ana I. Gaspar González</td>
@@ -284,7 +286,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 2 Número 1 2008  </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> </tr>   
              <tr>
       		<td> 26 </td>
 	        <td> Johnny Poveda Mora</td>
@@ -292,7 +294,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 2 Número 1 2008 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
       		<td> 27 </td>
 	        <td> Juan Carlos Leiva Bonilla</td>
@@ -300,7 +302,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 2 Número 1 2008 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
       		<td> 28 </td>
 	        <td> Grettel Benes Leiva y Fidel León Darder</td>
@@ -308,7 +310,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 2 Número 2 2008  </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
       		<td> 29 </td>
 	        <td> Gustavo Cubillo Salas  y María del Carmen Saorín Iborra</td>
@@ -316,7 +318,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 2 Número 2 2008  </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>   </tr>   
              <tr>
       		<td> 30 </td>
 	        <td> Eduardo Rojas Gómez</td>
@@ -324,7 +326,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 2 Número 2 2008 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> </tr>   
              <tr>
       		<td> 31 </td>
 	        <td> Luis Alejandro Garita Pacheco</td>
@@ -332,7 +334,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 2 Número 2 2008 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
       		<td> 32 </td>
 	        <td> Manrique Hernández Ramírez</td>
@@ -340,7 +342,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 2 Número 3 2008 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> </tr>   
              <tr>
       		<td> 33 </td>
 	        <td> Juan Manuel Berbel Pineda</td>
@@ -348,7 +350,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 2 Número 3 2008 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
       		<td> 34 </td>
 	        <td> Henry J. Quesada Pineda, Raquel Lafuente Chryssopoulos, Marcela Meneses Guzmán, Óscar Gamboa Calderón</td>
@@ -356,7 +358,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 2 Número 3 2008  </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> </tr>   
              <tr>
       		<td> 35 </td>
 	        <td> Shirley Benavides Vindas</td>
@@ -364,7 +366,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 2 Número 3 2008 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> </tr>   
              <tr>
       		<td> 36 </td>
 	        <td> Frank Lavagni Bolaños y Luis Alberto García González</td>
@@ -372,7 +374,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 3 Número 1-2 2009  </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> </tr>   
              <tr>
       		<td> 37 </td>
 	        <td> Vernor Mesén Figueroa</td>
@@ -380,7 +382,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 3 Número 1-2 2009  </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> </tr>   
              <tr>
       		<td> 38 </td>
 	        <td> María del Val Segarra Oña  y Blanca de Miguel Molina </td>
@@ -388,7 +390,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 3 Número 1-2 2009  </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>   </tr>   
              <tr>
       		<td> 39 </td>
 	        <td> Maria del Mar Alonso Almeida</td>
@@ -396,7 +398,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td>Vol 3 Número 1-2 2009 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> </tr>   
              <tr>
       		<td> 40 </td>
 	        <td> Inmaculada Martín Rojo </td>
@@ -404,7 +406,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 3 Número 1-2 2009 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
       		<td> 41 </td>
 	        <td> Luis Carlos Arraut Camargo, Jairo Duque Ramírez y Paola Amar Sepúlveda</td>
@@ -412,7 +414,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 3 Número 1-2 2009 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td></tr>   
              <tr>
       		<td> 42 </td>
 	        <td> Marta Coronel de Renolfi y Gabriela Cardona</td>
@@ -420,7 +422,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 3 Número 1-2 2009 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> </tr>   
              <tr>
       		<td> 43 </td>
 	        <td> Gabael Armas Vallejos</td>
@@ -428,7 +430,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 3 Número 3 2009  </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> </tr>   
              <tr>
       		<td> 44 </td>
 	        <td> Sandra Lucia Bolaños Delgado, María Inés Pantoja Villarreal y Álvaro Jiménez Villota</td>
@@ -436,7 +438,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 3 Número 3 2009  </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
       		<td> 45 </td>
 	        <td> Manrique Hernández Ramírez </td>
@@ -444,7 +446,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 3 Número 3 2009  </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td></tr>   
              <tr>
       		<td> 46 </td>
 	        <td>Arnoldo Araya Leandro </td>
@@ -452,7 +454,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 3 Número 3 2009  </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> </tr>   
              <tr>
       		<td> 47 </td>
 	        <td> Lorenzo Revuelto Taboada y Rafael Fernández Guerrero</td>
@@ -460,7 +462,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 3 Número 3 2009 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>   </tr>   
              <tr>
       		<td> 48 </td>
 	        <td> Vernor Mesén Figueroa</td>
@@ -468,7 +470,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 4 Número 1 2010  </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
       		<td> 49 </td>
 	        <td> Luis Miret Pastor y María del Val Segarra Oña</td>
@@ -476,7 +478,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 4 Número 1 2010 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
       		<td> 50 </td>
 	        <td> Antonia Mercedes García Cabrera y María Gracia García Soto</td>
@@ -484,7 +486,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 4 Número 1 2010  </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>   </tr>   
              <tr>
       		<td> 51 </td>
 	        <td> Manrique Hernandez Ramírez y Ronald Mora Esquivel</td>
@@ -492,7 +494,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 4 Número 1 2010 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
       		<td> 52 </td>
 	        <td> Lucía Mercedes Mauro y Fernando Manuel Graña</td>
@@ -500,7 +502,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 4 Número 1 2010 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
       		<td> 53 </td>
 	        <td> Salvador Vivas López</td>
@@ -508,7 +510,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 4 Número 2 2010  </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> </tr>   
              <tr>
       		<td> 54 </td>
 	        <td> Silvia Morales Gualdrón</td>
@@ -516,7 +518,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 4 Número 2 2010 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
       		<td> 55 </td>
 	        <td> Henry Quesada, Marcela Meneses y Guido Monge</td>
@@ -524,7 +526,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 4 Número 2 2010 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
       		<td> 56 </td>
 	        <td> María Cristina Hernández y Paola Podestá</td>
@@ -532,7 +534,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 4 Número 2 2010 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
       		<td> 57 </td>
 	        <td> Lucia Mercedes Mauro y Fernando Graña</td>
@@ -540,7 +542,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td>Vol 4 Número 3 2010  </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>   </tr>   
              <tr>
       		<td> 58 </td>
 	        <td> Francisco Rodríguez y Tomás Gómez Navarro</td>
@@ -548,7 +550,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 4 Número 3 2010 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
       		<td> 59 </td>
 	        <td> Manrique Hernández Ramírez </td>
@@ -556,7 +558,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 4 Número 3 2010 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
       		<td> 60 </td>
 	        <td> María Virginia Baptista, María del Fátima León y Cesar León</td>
@@ -564,7 +566,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 4 Número 3 2010 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
       		<td> 61 </td>
 	        <td> Ricardo Monge González y Juan Antonio Rodríguez Álvarez</td>
@@ -572,7 +574,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 5 Número 1 2011  </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> </tr>   
              <tr>
       		<td> 62 </td>
 	        <td> Gonzalo Maldonado Guzmán, María del Carmen Martínez Serna; Octavio Hernández Castorena; Domingo García Pérez de Lema.</td>
@@ -580,7 +582,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 5 Número 1 2011 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> </tr>   
              <tr>
       		<td> 63 </td>
 	        <td> Pilar Valencia de Lara y Juana Patlán Pérez</td>
@@ -588,7 +590,7 @@ include("lang_".$_SESSION["idiomas"].".php");
 	        <td> Vol 5 Número 1 2011  </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
       		<td> 64 </td>
 	        <td> Diego Valerio Alfaro, Jimmy Segura Castillo y Nelson Gutiérrez García</td>
@@ -597,7 +599,7 @@ para empresas del sector textil </td>
 	        <td> Vol 5 Número 1 2011 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>   </tr>   
              <tr>
       		<td> 65 </td>
 	        <td> Lluis Miret-Pastor , Maria-del-Val Segarra-Oña y Ángel Peiró-Signes</td>
@@ -605,7 +607,7 @@ para empresas del sector textil </td>
 	        <td> Vol 5 Número 2, 2011 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> </tr>   
              <tr>
       		<td> 66 </td>
 	        <td> Henry J. Quesada-Pineda y Marcela Meneses Guzmán</td>
@@ -613,7 +615,7 @@ para empresas del sector textil </td>
 	        <td> Vol 5 Número 2, 2011 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
       		<td> 67 </td>
 	        <td> Federico Quesada Chaves</td>
@@ -621,7 +623,7 @@ para empresas del sector textil </td>
 	        <td> Vol 5 Número 2, 2011 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
       		<td> 68 </td>
 	        <td> Silvia Ferrada Vergara y Víctor Manuel Rolando Valencia Pozo </td>
@@ -629,7 +631,7 @@ para empresas del sector textil </td>
 	        <td> Vol 5 Número 2, 2011  </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> </tr>   
              <tr>
       		<td> 69 </td>
 	        <td> Monge Ricardo,   Leiva Juan Carlos y Vidal Alegre Joaquín</td>
@@ -637,7 +639,7 @@ para empresas del sector textil </td>
 	        <td> Vol 5, Número 3, 2011  </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> </tr>   
              <tr>
       		<td> 70 </td>
 	        <td> Pilar Valencia de Lara y Juana Patlán Pérez</td>
@@ -645,7 +647,7 @@ para empresas del sector textil </td>
 	        <td> Vol 5, Número 3, 2011  </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
       		<td> 71 </td>
 	        <td> Vernor Mesén Figueroa</td>
@@ -653,7 +655,7 @@ para empresas del sector textil </td>
 	        <td> Vol 5, Número 3, 2011  </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>   </tr>   
              <tr>
       		<td> 72 </td>
 	        <td> Ruth Noemí Ojeda López y Olivia Jiménez Diez</td>
@@ -661,16 +663,15 @@ para empresas del sector textil </td>
 	        <td> Vol 5, Número 3, 2011 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
-        
-                     <tr>
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> </tr>   
+         <tr>
       		<td> 73 </td>
 	        <td> Lizette Brenes Bonilla y Ligia Bermúdez Mesén</td>
     	    <td> Propuesta de un índice para la medición de democracia económica en Costa Rica</td>
 	        <td> Vol 6, Número 1, 2012 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> </tr>   
                      <tr>
       		<td> 74 </td>
 	        <td> María del Val Segarra Oña, Paloma Merello Giménez, Marina Segura Maroto. Ángel Peiró Signesy Concepción Maroto Álvarez. </td>
@@ -678,7 +679,7 @@ para empresas del sector textil </td>
 	        <td> Vol 6, Número 1, 2012 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>   </tr>   
                      <tr>
       		<td> 75 </td>
 	        <td> Juan Manuel Berbel Pineda, María A. Ramón Jerónimo, Rosario Vázquez Carrasco. </td>
@@ -686,7 +687,7 @@ para empresas del sector textil </td>
 	        <td> Vol 6, Número 1, 2012 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>   </tr>   
                      <tr>
       		<td> 76 </td>
 	        <td> Arnoldo Araya Leandro</td>
@@ -694,7 +695,7 @@ para empresas del sector textil </td>
 	        <td>Vol 6, Número 2, 2012</td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
                      <tr>
       		<td> 77 </td>
 	        <td> Paola Podestá y María Cristina Hernández</td>
@@ -702,7 +703,7 @@ para empresas del sector textil </td>
 	        <td> Vol 6, Número 2, 2012</td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
                      <tr>
       		<td> 78 </td>
 	        <td> Johnny Poveda Mora y Ronald Leandro Elizondo</td>
@@ -710,7 +711,7 @@ para empresas del sector textil </td>
 	        <td> Vol 6, Número 2, 2012 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>   </tr>   
                      <tr>
       		<td> 79 </td>
 	        <td> Vernor Mesén Figueroa</td>
@@ -718,7 +719,7 @@ para empresas del sector textil </td>
 	        <td> Vol 6, Número 3, 2012 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
                      <tr>
       		<td> 80 </td>
 	        <td> Natacha Liseras, Fernando Manuel Graña, Andrea Belmartino y Ana Gennero. </td>
@@ -726,7 +727,7 @@ para empresas del sector textil </td>
 	        <td>Vol 6, Número 3, 2012 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>   </tr>   
                      <tr>
       		<td> 81 </td>
 	        <td> Conrado Carrascosa López, Ángel Peiró Signes, María del Val Segarra Oña</td>
@@ -734,7 +735,7 @@ para empresas del sector textil </td>
 	        <td> Vol 6, Número 3, 2012 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
                      <tr>
       		<td> 82 </td>
 	        <td> Federico Quesada Chaves y José Pla Barber</td>
@@ -742,7 +743,7 @@ para empresas del sector textil </td>
 	        <td>Vol 7, Número 1, 2013 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>   </tr>   
                      <tr>
       		<td> 83 </td>
 	        <td> Sebastián Murillo Pérez, Seth Francisco Ruiz Campos y Jorge Benavides Chacón</td>
@@ -750,7 +751,7 @@ para empresas del sector textil </td>
 	        <td> Vol 7, Número 1, 2013 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
                      <tr>
       		<td> 84 </td>
 	        <td> Carla Marchena Segura y Rebeca Marín Alvarado</td>
@@ -759,7 +760,7 @@ para mejorar la rentabilidad de los fondos captados por el régimen obligatorio d
 	        <td> Vol 7, Número 1, 2013 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
                      <tr>
       		<td> 85 </td>
 	        <td>Rytha Picado Arroyo Ana Cristina Rivas Bustos</td>
@@ -767,7 +768,7 @@ para mejorar la rentabilidad de los fondos captados por el régimen obligatorio d
 	        <td> Vol 7, Número 2, 2013 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
                      <tr>
       		<td> 86 </td>
 	        <td> Juan Carlos Leiva Bonilla</td>
@@ -775,7 +776,7 @@ para mejorar la rentabilidad de los fondos captados por el régimen obligatorio d
 	        <td> Vol 7, Número 2, 2013 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
                      <tr>
       		<td> 87 </td>
 	        <td> Lizette Brenes Bonilla y Ligia Bermúdez Mesén</td>
@@ -783,7 +784,7 @@ para mejorar la rentabilidad de los fondos captados por el régimen obligatorio d
 	        <td> Vol 7, Número 2, 2013 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
                      <tr>
       		<td> 88 </td>
 	        <td> Lizette Brenes Bonilla y Ligia Bermúdez Mesén</td>
@@ -791,7 +792,7 @@ para mejorar la rentabilidad de los fondos captados por el régimen obligatorio d
 	        <td> Vol 7, Número 2, 2013 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> </tr>   
                      <tr>
       		<td> 89 </td>
 	        <td> Nalda Arias Cascante y Shirley León Jiménez</td>
@@ -799,7 +800,7 @@ para mejorar la rentabilidad de los fondos captados por el régimen obligatorio d
 	        <td> Vol 7, Número 3, 2013 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
                      <tr>
       		<td> 90 </td>
 	        <td> Leonardo Chacón Rodríguez</td>
@@ -807,7 +808,7 @@ para mejorar la rentabilidad de los fondos captados por el régimen obligatorio d
 	        <td> Vol 7, Número 3, 2013 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>   </tr>   
                      <tr>
       		<td> 91 </td>
 	        <td> José Alonso Vargas Charpentier. Michelle Barrett Gómez. José Miguel Cordero Rojas.</td>
@@ -815,7 +816,7 @@ para mejorar la rentabilidad de los fondos captados por el régimen obligatorio d
 	        <td> Vol 7, Número 3, 2013 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>   </tr>   
                      <tr>
       		<td> 92 </td>
 	        <td> Gabriel Espinoza Carro</td>
@@ -823,7 +824,7 @@ para mejorar la rentabilidad de los fondos captados por el régimen obligatorio d
 	        <td> Vol 7, Número 3, 2013 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>   </tr>   
                      <tr>
       		<td> 93 </td>
 	        <td> Grettel Brenes Leiva y Fidel León Darder</td>
@@ -831,7 +832,7 @@ para mejorar la rentabilidad de los fondos captados por el régimen obligatorio d
 	        <td> Vol 8, Número 1, 2014 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>   </tr>   
                      <tr>
       		<td> 94 </td>
 	        <td> Ricardo Monge González y Juan Antonio Rodríguez Álvarez</td>
@@ -839,7 +840,7 @@ para mejorar la rentabilidad de los fondos captados por el régimen obligatorio d
 	        <td> Vol 8, Número 1, 2014 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>   </tr>   
                      <tr>
       		<td> 95 </td>
 	        <td> Alberto Leer Guillén</td>
@@ -847,7 +848,7 @@ para mejorar la rentabilidad de los fondos captados por el régimen obligatorio d
 	        <td> Vol 8, Número 1, 2014 </td>
       	</tr> 
       	
-        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
                      <tr>
       		<td> 96 </td>
 	        <td> Jorge Isaac Moreno Gómez</td>

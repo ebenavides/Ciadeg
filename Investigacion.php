@@ -110,6 +110,7 @@ El Centro trabaja en cuatros líneas de investigación que han sido definidas cons
       <p align="justify">
       			
                 <a href="Publicaciones.php">Publicaciones, tésis, sus autores y enlace dónde se encuentran disponibles</a>
+                <br><br>
                 
                 <a href="PublicacionesRevista.php">Publicaciones en TEC-Empresarial</a>
                 

@@ -5,7 +5,7 @@
 <file name="Descripcion.php" server="2c8.2ad.myftpupload.com//ciadeg/" local="130626213934904523" remote="130626178200000000" Dst="0" />
 <file name="EncuestasOpinion.php" server="2c8.2ad.myftpupload.com//ciadeg/" local="130616055160000000" remote="130619272200000000" Dst="0" />
 <file name="Estudiantes.php" server="2c8.2ad.myftpupload.com//ciadeg/" local="130616055140000000" remote="130619272200000000" Dst="0" />
-<file name="Investigacion.php" server="2c8.2ad.myftpupload.com//ciadeg/" local="130634245846036171" remote="130634211000000000" Dst="0" />
+<file name="Investigacion.php" server="2c8.2ad.myftpupload.com//ciadeg/" local="130634863810000000" remote="130634827800000000" Dst="0" />
 <file name="ProgramaTransferencia.php" server="2c8.2ad.myftpupload.com//ciadeg/" local="130616055080000000" remote="130619272200000000" Dst="0" />
 <file name="Propuestas2015.php" server="2c8.2ad.myftpupload.com//ciadeg/" local="130626228666983320" remote="130626192600000000" Dst="0" />
 <file name="Organizacion.php" server="2c8.2ad.myftpupload.com//ciadeg/" local="130616055080000000" remote="130619272200000000" Dst="0" />
@@ -18,4 +18,5 @@
 <file name="index.php" server="2c8.2ad.myftpupload.com//ciadeg/" local="130616055140000000" remote="130619272200000000" Dst="0" />
 <file name="lang_en.php" server="2c8.2ad.myftpupload.com//ciadeg/" local="130616055120000000" remote="130619272200000000" Dst="0" />
 <file name="lang_es.php" server="2c8.2ad.myftpupload.com//ciadeg/" local="130616055100000000" remote="130619272200000000" Dst="0" />
+<file name="PublicacionesRevista.php" server="2c8.2ad.myftpupload.com//ciadeg/" local="130634875385800949" remote="130634839200000000" Dst="0" />
 </dwsync>
