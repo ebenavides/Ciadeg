@@ -608,63 +608,252 @@ para empresas del sector textil </td>
         <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
       		<td> 66 </td>
-	        <td> Gustavo Vargas Vargas</td>
-    	    <td> El servicio al Cliente: ¡Más que un querer un deber!</td>
-	        <td> Vol 1 Número 1 2006  </td>
+	        <td> Henry J. Quesada-Pineda y Marcela Meneses Guzmán</td>
+    	    <td> Determinación de un modelo de negocios para apoyar el desarrollo de la pequeña y mediana empresa  basado en casos de éxito</td>
+	        <td> Vol 5 Número 2, 2011 </td>
       	</tr> 
       	
         <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
-      		<td> 3 </td>
-	        <td> Gustavo Vargas Vargas</td>
-    	    <td> El servicio al Cliente: ¡Más que un querer un deber!</td>
-	        <td> Vol 1 Número 1 2006  </td>
+      		<td> 67 </td>
+	        <td> Federico Quesada Chaves</td>
+    	    <td> La estructura en empresas de internacionalización acelerada o born globals</td>
+	        <td> Vol 5 Número 2, 2011 </td>
       	</tr> 
       	
         <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
-      		<td> 3 </td>
-	        <td> Gustavo Vargas Vargas</td>
-    	    <td> El servicio al Cliente: ¡Más que un querer un deber!</td>
-	        <td> Vol 1 Número 1 2006  </td>
+      		<td> 68 </td>
+	        <td> Silvia Ferrada Vergara y Víctor Manuel Rolando Valencia Pozo </td>
+    	    <td>  El marketing actual: ajeno y distante de la mujer y de su importancia como agente dentro del proceso de compra</td>
+	        <td> Vol 5 Número 2, 2011  </td>
       	</tr> 
       	
         <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
-      		<td> 3 </td>
-	        <td> Gustavo Vargas Vargas</td>
-    	    <td> El servicio al Cliente: ¡Más que un querer un deber!</td>
-	        <td> Vol 1 Número 1 2006  </td>
+      		<td> 69 </td>
+	        <td> Monge Ricardo,   Leiva Juan Carlos y Vidal Alegre Joaquín</td>
+    	    <td>Creación de Empresas por parte de Ex Empleados de Empresas Multinacionales de alta tecnología en Costa Rica </td>
+	        <td> Vol 5, Número 3, 2011  </td>
       	</tr> 
       	
         <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
-      		<td> 3 </td>
-	        <td> Gustavo Vargas Vargas</td>
-    	    <td> El servicio al Cliente: ¡Más que un querer un deber!</td>
-	        <td> Vol 1 Número 1 2006  </td>
+      		<td> 70 </td>
+	        <td> Pilar Valencia de Lara y Juana Patlán Pérez</td>
+    	    <td> El empresario innovador y su relación con el desarrollo económico </td>
+	        <td> Vol 5, Número 3, 2011  </td>
       	</tr> 
       	
         <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
-      		<td> 3 </td>
-	        <td> Gustavo Vargas Vargas</td>
-    	    <td> El servicio al Cliente: ¡Más que un querer un deber!</td>
-	        <td> Vol 1 Número 1 2006  </td>
+      		<td> 71 </td>
+	        <td> Vernor Mesén Figueroa</td>
+    	    <td> Fidelización de clientes: concepto y perspectiva contable</td>
+	        <td> Vol 5, Número 3, 2011  </td>
       	</tr> 
       	
         <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
              <tr>
-      		<td> 3 </td>
-	        <td> Gustavo Vargas Vargas</td>
-    	    <td> El servicio al Cliente: ¡Más que un querer un deber!</td>
-	        <td> Vol 1 Número 1 2006  </td>
+      		<td> 72 </td>
+	        <td> Ruth Noemí Ojeda López y Olivia Jiménez Diez</td>
+    	    <td> Responsabilidad social empresarial en el sector servicios de Mérida, Yucatán</td>
+	        <td> Vol 5, Número 3, 2011 </td>
       	</tr> 
       	
         <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
         
-        
-                
+                     <tr>
+      		<td> 73 </td>
+	        <td> Lizette Brenes Bonilla y Ligia Bermúdez Mesén</td>
+    	    <td> Propuesta de un índice para la medición de democracia económica en Costa Rica</td>
+	        <td> Vol 6, Número 1, 2012 </td>
+      	</tr> 
+      	
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+                     <tr>
+      		<td> 74 </td>
+	        <td> María del Val Segarra Oña, Paloma Merello Giménez, Marina Segura Maroto. Ángel Peiró Signesy Concepción Maroto Álvarez. </td>
+    	    <td> Proactividad medioambiental en la empresa: clasificación empírica y determinación de aspectos clave </td>
+	        <td> Vol 6, Número 1, 2012 </td>
+      	</tr> 
+      	
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+                     <tr>
+      		<td> 75 </td>
+	        <td> Juan Manuel Berbel Pineda, María A. Ramón Jerónimo, Rosario Vázquez Carrasco. </td>
+    	    <td> La selección de mercados preferentes como clave en la internacionalización empresarial</td>
+	        <td> Vol 6, Número 1, 2012 </td>
+      	</tr> 
+      	
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+                     <tr>
+      		<td> 76 </td>
+	        <td> Arnoldo Araya Leandro</td>
+    	    <td> El proceso de sucesión en la empresa familiar y su impacto en la organización</td>
+	        <td>Vol 6, Número 2, 2012</td>
+      	</tr> 
+      	
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+                     <tr>
+      		<td> 77 </td>
+	        <td> Paola Podestá y María Cristina Hernández</td>
+    	    <td> Empresas de base cultural y creativa: identificación y clasificación de sus factores críticos de desempeño </td>
+	        <td> Vol 6, Número 2, 2012</td>
+      	</tr> 
+      	
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+                     <tr>
+      		<td> 78 </td>
+	        <td> Johnny Poveda Mora y Ronald Leandro Elizondo</td>
+    	    <td> An associative entrepreneurship productive plan: the contribution of women entrepreneurs to local economic development: a Costa Rican case study.</td>
+	        <td> Vol 6, Número 2, 2012 </td>
+      	</tr> 
+      	
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+                     <tr>
+      		<td> 79 </td>
+	        <td> Vernor Mesén Figueroa</td>
+    	    <td> Capital intelectual: su valoración en el contexto empresarial</td>
+	        <td> Vol 6, Número 3, 2012 </td>
+      	</tr> 
+      	
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+                     <tr>
+      		<td> 80 </td>
+	        <td> Natacha Liseras, Fernando Manuel Graña, Andrea Belmartino y Ana Gennero. </td>
+    	    <td> Diferencias en el posicionamiento competitivo entre empresas de indumentaria: evidencia de dos ciudades argentinas</td>
+	        <td>Vol 6, Número 3, 2012 </td>
+      	</tr> 
+      	
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+                     <tr>
+      		<td> 81 </td>
+	        <td> Conrado Carrascosa López, Ángel Peiró Signes, María del Val Segarra Oña</td>
+    	    <td> Relación entre mejora continua, innovación y compromiso medioambiental de la gerencia, un estudio empírico</td>
+	        <td> Vol 6, Número 3, 2012 </td>
+      	</tr> 
+      	
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+                     <tr>
+      		<td> 82 </td>
+	        <td> Federico Quesada Chaves y José Pla Barber</td>
+    	    <td> Una empresa born global de consultoría en Costa Rica: estructura organizativa lateral y centralizada</td>
+	        <td>Vol 7, Número 1, 2013 </td>
+      	</tr> 
+      	
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+                     <tr>
+      		<td> 83 </td>
+	        <td> Sebastián Murillo Pérez, Seth Francisco Ruiz Campos y Jorge Benavides Chacón</td>
+    	    <td> Modelo comparativo de índices financieros para la evaluación de la gestión de compañías comparables en Latinoamérica</td>
+	        <td> Vol 7, Número 1, 2013 </td>
+      	</tr> 
+      	
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+                     <tr>
+      		<td> 84 </td>
+	        <td> Carla Marchena Segura y Rebeca Marín Alvarado</td>
+    	    <td> Propuesta de un modelo alternativo
+para mejorar la rentabilidad de los fondos captados por el régimen obligatorio de pensiones complementarias de Costa Rica</td>
+	        <td> Vol 7, Número 1, 2013 </td>
+      	</tr> 
+      	
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+                     <tr>
+      		<td> 85 </td>
+	        <td>Rytha Picado Arroyo Ana Cristina Rivas Bustos</td>
+    	    <td>Las TIC y las Mipymes costarricenses: situación actual, retos y oportunidades</td>
+	        <td> Vol 7, Número 2, 2013 </td>
+      	</tr> 
+      	
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+                     <tr>
+      		<td> 86 </td>
+	        <td> Juan Carlos Leiva Bonilla</td>
+    	    <td> ¿Quién crea Mipymes en Costa Rica?</td>
+	        <td> Vol 7, Número 2, 2013 </td>
+      	</tr> 
+      	
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+                     <tr>
+      		<td> 87 </td>
+	        <td> Lizette Brenes Bonilla y Ligia Bermúdez Mesén</td>
+    	    <td> Condiciones actuales del financiamiento de las Mipymes costarricenses</td>
+	        <td> Vol 7, Número 2, 2013 </td>
+      	</tr> 
+      	
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+                     <tr>
+      		<td> 88 </td>
+	        <td> Lizette Brenes Bonilla y Ligia Bermúdez Mesén</td>
+    	    <td> Diferencias por género en el emprendimiento empresarial costarricense</td>
+	        <td> Vol 7, Número 2, 2013 </td>
+      	</tr> 
+      	
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+                     <tr>
+      		<td> 89 </td>
+	        <td> Nalda Arias Cascante y Shirley León Jiménez</td>
+    	    <td> Brechas de género en las mujeres trabajadoras</td>
+	        <td> Vol 7, Número 3, 2013 </td>
+      	</tr> 
+      	
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+                     <tr>
+      		<td> 90 </td>
+	        <td> Leonardo Chacón Rodríguez</td>
+    	    <td> Costa Rica en el Doing Business: un trámite pendiente.</td>
+	        <td> Vol 7, Número 3, 2013 </td>
+      	</tr> 
+      	
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+                     <tr>
+      		<td> 91 </td>
+	        <td> José Alonso Vargas Charpentier. Michelle Barrett Gómez. José Miguel Cordero Rojas.</td>
+    	    <td> Modelos para la prevención de bancarrotas empresariales utilizados por el sector  empresarial costarricense</td>
+	        <td> Vol 7, Número 3, 2013 </td>
+      	</tr> 
+      	
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+                     <tr>
+      		<td> 92 </td>
+	        <td> Gabriel Espinoza Carro</td>
+    	    <td> La participación de las universidades públicas en el capital social de las spin off académicas: una propuesta para su fundamento legal en Costa Rica</td>
+	        <td> Vol 7, Número 3, 2013 </td>
+      	</tr> 
+      	
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+                     <tr>
+      		<td> 93 </td>
+	        <td> Grettel Brenes Leiva y Fidel León Darder</td>
+    	    <td> Análisis interno de las subsidiarias costarricenses: mecanismos que determinan su contribución al crecimiento</td>
+	        <td> Vol 8, Número 1, 2014 </td>
+      	</tr> 
+      	
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+                     <tr>
+      		<td> 94 </td>
+	        <td> Ricardo Monge González y Juan Antonio Rodríguez Álvarez</td>
+    	    <td> El impacto de los servicios financieros y de capacitación en las mi pyme de Costa Rica</td>
+	        <td> Vol 8, Número 1, 2014 </td>
+      	</tr> 
+      	
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+                     <tr>
+      		<td> 95 </td>
+	        <td> Alberto Leer Guillén</td>
+    	    <td> RPlaneación estratégica en instituciones del sector público de América Latina</td>
+	        <td> Vol 8, Número 1, 2014 </td>
+      	</tr> 
+      	
+        <tr> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td>  </tr>   
+                     <tr>
+      		<td> 96 </td>
+	        <td> Jorge Isaac Moreno Gómez</td>
+    	    <td> La presencia de la familia en la propiedad y la gestión de la empresa y su impacto en la rentabilidad: el caso de Colombia</td>
+	        <td> Vol 8, Número 1, 2014 </td>
+      	</tr>       	                       
         
         </table>
 
